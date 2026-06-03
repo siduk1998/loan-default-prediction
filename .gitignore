@@ -1,0 +1,12 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.ipynb_checkpoints/
+
+# Data (large raw file)
+data/cs-training.csv
+
+# System
+.DS_Store
+Thumbs.db
